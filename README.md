@@ -28,11 +28,7 @@ A ideia é centralizar várias ferramentas matemáticas em uma única interface 
 
 ## 📱 Responsividade
 
-O site foi desenvolvido para funcionar em **desktop e dispositivos móveis**, usando **media queries** no CSS.  
-
-## 🌐 Demonstração
-
-👉 [Acesse o projeto online](https://creator-maching.github.io/calculos-legacy/)  
+O site foi desenvolvido para funcionar em **desktop e dispositivos móveis**, usando **media queries** no CSS.   
 
 ## 👤 Autor
 
