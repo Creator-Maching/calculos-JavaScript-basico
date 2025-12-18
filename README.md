@@ -36,4 +36,6 @@ O site foi desenvolvido para funcionar em **desktop e dispositivos móveis**, us
 📌 Todos os direitos reservados.  
 
 ---
-✨ Sugestões e melhorias são bem-vindas!
+##✨ Site Online
+
+link: https://creator-maching.github.io/calculos-JavaScript-basico/
